@@ -1,0 +1,15 @@
+{
+    "name": "crystal"
+  , "repo": "qualiancy/crystal"
+  , "version": "0.0.0"
+  , "description": "Tiny math-based uuid generator."
+  , "license": "MIT"
+  , "keywords": [
+    ]
+  , "main": "lib/crystal.js"
+  , "scripts": [
+        "lib/crystal.js"
+    ]
+  , "dependencies": {}
+  , "development": {}
+}
