@@ -1,7 +1,7 @@
 {
     "name": "crystal"
-  , "version": "0.0.0"
-  , "description": "Tiny math-based uuid generator."
+  , "version": "0.1.0"
+  , "description": "Tiny math-based unique id generator."
   , "author": "Jake Luer <jake@qualiancy.com> (http://qualiancy.com)"
   , "license": "MIT"
   , "keywords": [
